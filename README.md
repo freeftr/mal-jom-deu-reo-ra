@@ -1,4 +1,4 @@
-# mal-zom-deul-a-ra
+# mal-jom-deu-reo-ra
 
 AI 모델(클로드)이 한국어 글에서 버릇처럼 쓰는 표현을 모은 사전이다.
 문서·PR·이슈에 이런 표현이 섞이지 않게 거르는 용도로 쓴다.
@@ -11,13 +11,13 @@ AI 모델(클로드)이 한국어 글에서 버릇처럼 쓰는 표현을 모은
 
 ```bash
 # 모든 프로젝트에서 쓰기
-git clone https://github.com/freeftr/mal-zom-deul-a-ra.git ~/.claude/skills/mal-zom-deul-a-ra
+git clone https://github.com/freeftr/mal-jom-deu-reo-ra.git ~/.claude/skills/mal-jom-deu-reo-ra
 
 # 한 프로젝트에서만 쓰기
-git clone https://github.com/freeftr/mal-zom-deul-a-ra.git .claude/skills/mal-zom-deul-a-ra
+git clone https://github.com/freeftr/mal-jom-deu-reo-ra.git .claude/skills/mal-jom-deu-reo-ra
 ```
 
-한국어 글을 쓰거나 검토할 때 자동으로 불리고, `/mal-zom-deul-a-ra` 로 직접 부를 수도 있다.
+한국어 글을 쓰거나 검토할 때 자동으로 불리고, `/mal-jom-deu-reo-ra` 로 직접 부를 수도 있다.
 목록을 새로 받으려면 설치한 폴더에서 `git pull` 한다.
 
 ## 제보
