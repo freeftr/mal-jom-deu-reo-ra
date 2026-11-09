@@ -23,3 +23,4 @@ git clone https://github.com/freeftr/mal-jom-deu-reo-ra.git .claude/skills/mal-j
 ## 제보
 
 여기 없는 표현을 보셨다면 언제든 이슈나 PR 로 알려 주세요. 고맙게 받겠습니다.
+방법은 [CONTRIBUTING.md](./CONTRIBUTING.md) 에 있습니다.

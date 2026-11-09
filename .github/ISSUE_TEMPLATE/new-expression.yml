@@ -1,0 +1,23 @@
+name: 새 표현 제보
+description: AI 모델이 버릇처럼 쓰는 표현을 알려 주세요
+title: "[제보] "
+body:
+  - type: input
+    id: bad
+    attributes:
+      label: 쓰지 않는 표현 / 버릇
+      placeholder: "예: ~ 칸이다"
+    validations:
+      required: true
+  - type: input
+    id: good
+    attributes:
+      label: 바꿔 쓸 표현 / 고치는 법
+      placeholder: "예: ~ 곳이다"
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: 예시
+      placeholder: "「설정을 넣는 칸이다」 → 「설정을 넣는 곳이다」"
