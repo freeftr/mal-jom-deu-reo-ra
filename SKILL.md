@@ -1,9 +1,9 @@
 ---
-name: mal-zom-deul-a-ra
+name: mal-jom-deu-reo-ra
 description: 한국어 문서·PR·이슈·커밋 메시지를 쓰거나 고칠 때 AI 모델이 버릇처럼 쓰는 표현을 걸러 낸다. 한국어 글을 새로 쓸 때, "AI 티 빼줘", "말투 다듬어줘", "글 검토해줘" 같은 요청을 받았을 때 쓴다.
 ---
 
-# mal-zom-deul-a-ra
+# mal-jom-deu-reo-ra
 
 AI 모델이 한국어 글에서 버릇처럼 쓰는 표현을 사람이 쓰는 말로 바꾼다.
 
