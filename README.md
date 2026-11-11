@@ -20,6 +20,16 @@ git clone https://github.com/freeftr/mal-jom-deu-reo-ra.git .claude/skills/mal-j
 한국어 글을 쓰거나 검토할 때 자동으로 불리고, `/mal-jom-deu-reo-ra` 로 직접 부를 수도 있다.
 목록을 새로 받으려면 설치한 폴더에서 `git pull` 한다.
 
+## 버전
+
+판마다 git 태그(`v0.1.0` 등)와 [Releases](../../releases) 를 남긴다. 바뀐 내용은 [CHANGELOG.md](./CHANGELOG.md) 에 있다.
+
+- 표현·버릇만 추가: 가운데 자리를 올린다 (0.1.0 → 0.2.0)
+- SKILL.md 의 동작 규칙을 바꿈: 앞자리를 올린다 (0.x → 1.0.0)
+- 오타·예시 문장만 고침: 끝자리를 올린다 (0.1.0 → 0.1.1)
+
+특정 판에 고정하려면 설치한 폴더에서 `git checkout v0.1.0` 한다. 버전 번호는 관리자가 올리므로 기여 PR 에서는 건드리지 않아도 된다.
+
 ## 제보
 
 여기 없는 표현을 보셨다면 언제든 이슈나 PR 로 알려 주세요. 고맙게 받겠습니다.
